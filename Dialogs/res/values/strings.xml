@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dialogs</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="attention">Atencao</string>
+    <string name="which_button_gonna_press">Qual botao vc ira apertar</string>
+    <string name="yes">Sim</string>
+    <string name="no">Nao</string>
+    <string name="pressed_yes">Precionou sim</string>
+    <string name="pressed_no">Precionou nao</string>
+    <string name="wait">Aguarde</string>
+    <string name="k19_trainig">Treinamento</string>
+    <string name="show_progress_dialog">Mostrar Progress Dialog</string>
+    <string name="show_alert_dialog">Mostrar Alert Dialog</string>
+    <string name="show_custom_dialog">Mostrar Custom Dialog</string>
+    <string name="logo">Logo</string>
+
+</resources>

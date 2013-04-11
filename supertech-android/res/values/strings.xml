@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Supertech Fitness</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="name_label">Name</string>
+    <string name="see_message">Ver mensagem</string>
+    <string name="image_label">askda</string>
+
+</resources>
